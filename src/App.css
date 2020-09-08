@@ -1,6 +1,19 @@
 .App {
   text-align: center;
 }
+.App img{
+
+  width:20%;
+  
+}
+
+.App button{
+  color: lightgreen;
+  padding:2px 5px 2px 5px;
+  background-color:gray;
+  border:1px solid gray;
+  margin-top:50px;
+}
 
 .App-logo {
   height: 40vmin;
